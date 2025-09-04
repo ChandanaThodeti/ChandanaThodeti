@@ -2,7 +2,7 @@
 <h1 align="center">I'm Chandana Thodeti 🥰</h1>
 <h4 align="center">I'm an Upcoming Devops Engineer | Fresher </h4>
 
-- 🔭 I’m currently working on **Devops Intern**
+- 🔭 I’m currently working on **Devops Engineer**
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
